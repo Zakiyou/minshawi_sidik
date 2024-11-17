@@ -6,7 +6,7 @@ Bienvenue dans le guide d'installation de l'application du célèbre lecteur ég
 ## Étapes d'installation
 
 1. **Téléchargement**  
-   Téléchargez l'archive contenant le logiciel à partir du lien fourni.
+   Téléchargez l'archive contenant le logiciel à partir du lien https://github.com/Zakiyou/minshawi_sidik/archive/refs/heads/main.zip.
 
 2. **Décompression**  
    Une fois le fichier téléchargé, décompressez-le dans un dossier de votre choix.
